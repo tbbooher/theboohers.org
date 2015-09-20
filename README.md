@@ -1,7 +1,7 @@
-WPMedium
+TheBoohers.org
 ========
 
-`WPMedium` is a clean, simple and minimalistic WordPress theme designed to enhance reading. Based on Medium’s layout (https://medium.com) `WPMedium` is therefore not acceptable on WordPress.org theme repository and is distributed under the terms of the GNU General Public License version 3.
+This is Tim Booher's web theme.
 
 Features:
 ---------
